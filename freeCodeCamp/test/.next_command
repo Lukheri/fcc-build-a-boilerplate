@@ -221,3 +221,10 @@ echo text >> README.md
 echo text README.md
 echo I made this boilerplate >> README.md
 more README.md
+rn README.md
+rm README.md
+ls --color=auto
+touch README.md
+echo I made this boilerplate >> README.md
+more README.md
+echo from the command line >> README.md
