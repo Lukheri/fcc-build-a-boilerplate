@@ -238,3 +238,4 @@ ls --color=auto
 cp --help
 mkdir toms-website
 cp website-boilerplate toms-website -r
+ls --color=auto
