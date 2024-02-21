@@ -210,3 +210,4 @@ rm --help
 rmdir fonts -r
 rm fonts -r
 ls --color=auto
+touch package.json
